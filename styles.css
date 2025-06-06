@@ -1,0 +1,79 @@
+/* Estilos generales */
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Cabecera */
+
+header{
+    background-color: #3a81d3;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+
+/* seccion de contenido */
+/* #content {
+    padding: 20px;
+    text-align: center;
+}
+#content h2 {
+    color: #3a81d3;
+}
+
+
+
+*/
+.circular--square {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    color: #3a81d3;
+}
+ul li {
+  background: #3a81d3;
+  color: #f0f0f0;
+  margin: 5px;
+}
+
+button {
+    background-color: #3a81d3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #3a81d3;
+}
+/* Pie de pagina */
+
+footer {
+    background-color: #00567e;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    height: 11%;
+    width: 100%;
+    bottom: 0;
+}
+
